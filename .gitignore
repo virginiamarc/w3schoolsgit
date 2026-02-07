@@ -1,0 +1,14 @@
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Environment files
+.env
+
+# Node or Python (example)
+node_modules/
+__pycache__/
